@@ -3,9 +3,9 @@ Szül.idő:2007.03.18
 
 Aluláteresztő RC szűrő kapcsolás  
 
-Adatok:
-R=18hm
-C=2uF
+*Adatok:*    
+$R=18hm$      
+$C=2uF$        
 
 |freki(Hz)|	Uki(V)|  
 |---------|-------|
